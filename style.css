@@ -235,7 +235,7 @@ footer {
 
 
 @media screen and (max-width: 425px){
-  header, .nav-list, .nav-list-item, main-visual-content,  .blog, .sidebar{
+  header, .nav-list, .nav-list-item, .main-visual-content,  .blog, .sidebar{
     width: 100%;
   }
 
